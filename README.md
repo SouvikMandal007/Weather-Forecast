@@ -24,6 +24,5 @@
 4. Press the Enter key or click the search button.
 5. The app will display the current weather information for the specified location.
 6. You can repeat steps 3-5 to check the weather for different locations.
-# Deployment
-- The Weather App is deployed using Netlify and can be accessed at https://weather-tech-tribe.netlify.app/. 🌐🚀
+
 
